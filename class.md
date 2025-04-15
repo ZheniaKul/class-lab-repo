@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Zhenia  
+- Certification: Coursera Meta Course  
 
 ## Instructions
 Please replace the placeholders with your details:
